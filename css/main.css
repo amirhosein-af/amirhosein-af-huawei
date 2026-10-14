@@ -1,4 +1,4 @@
-.box1{
+/* .box1{
     height: 25px;
 }
 .a1,.a2{
@@ -20,3 +20,90 @@
 .textcenter:hover {
     color: black; 
 }
+.search{
+    color: #2b2b2b;
+} */
+ 
+/* نوار بالا */
+
+.box1 {
+    height: 25px;
+}
+
+.a1, .a2 {
+    color: #2b2b2b;
+    font-size: 12px;
+}
+
+.earth, .grid {
+    font-size: 12px;
+    color: #2b2b2b;
+}
+
+
+/* هدر */
+
+.textcenter {
+    font-size: 14px;
+    color: #333333;
+}
+
+.textcenter:hover {
+    color: black;
+}
+
+.search {
+    color: #2b2b2b;
+}
+
+
+/* اسلاید اول */
+
+.box2 {
+    background-image: url("../images/2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 540px;
+}
+
+
+/* متن سمت چپ */
+
+.text1 {
+    margin-left: 5%;
+    padding-top: 110px;
+    color: black;
+}
+
+
+/* اسلاید دوم */
+
+.box3 {
+    background-image: url("../images/1.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 540px;
+}
+
+
+/* متن سمت راست */
+
+.text2 {
+    width: 40%;
+    margin-left: 55%;
+    padding-top: 80px;
+    text-align: center;
+    color: black;
+}
+
+
+/* لینک */
+
+.more {
+    color: #e60012;
+    font-size: 18px;
+}
+
+
+
+
